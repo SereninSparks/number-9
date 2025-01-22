@@ -1,7 +1,7 @@
 #include <iostream>
 #include <random>
 
-void main() {
+int main() {
     srand(time(NULL));
 
     if (rand() % 9 + 1 == 9) {
@@ -9,4 +9,6 @@ void main() {
     } else {
         std::cout << "Try again.";
     }
+
+    return 0;
 }
