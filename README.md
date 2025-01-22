@@ -8,6 +8,12 @@
 - If the number 9 is generated, the text `"Number 9..."` ending with a newline must be printed
 - Otherwise, `"Try again."` must be printed
 
+## Contributing
+
+- Fork this repo
+- Add your language of choice
+- Make a pull request
+
 ## License
 
 Code is licensed under the WTFPL
