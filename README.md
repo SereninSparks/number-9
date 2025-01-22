@@ -12,7 +12,7 @@
 
 - Fork this repo
 - Add your language of choice
-- Make a pull request
+- Make a pull request, 1 per language
 
 ## License
 
